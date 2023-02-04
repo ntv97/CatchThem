@@ -2,7 +2,10 @@ To compile:
 
 run "make"
 
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">]
+[<img src="https://i.ibb.co/MgJDyZh/Screenshot-2023-02-03-at-7-53-27-PM.png" width="50%">]
+[<img src="https://i.ibb.co/J3f7d0s/Screenshot-2023-02-03-at-7-54-50-PM.png" width="50%">]
+[<img src="https://i.ibb.co/hWps2qJ/Screenshot-2023-02-03-at-7-57-29-PM.png" width="50%">]
+[<img src="https://i.ibb.co/yQffK9d/Screenshot-2023-02-03-at-7-58-32-PM.png" width="50%">]
 
 
 
