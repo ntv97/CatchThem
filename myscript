@@ -1,0 +1,18 @@
+g++ myapp.o -o myapp -lsfml-graphics -lsfml-window -lsfml-system
+g++ 11.24.cpp -o prog -lsfml-graphics -lsfml-window -lsfml-system -lpng
+
+
+
+g++ music.cpp -o music -lsfml-audio
+g++ background.cpp -lsfml-graphics -lsfml-window -lsfml-system -lpng -lsfml-audio
+g++ ingame.cpp RandomFloat.cpp -o ingame -lsfml-graphics -lsfml-window -lsfml-system -lpng -lsfml-audio
+
+g++ -o states states.cpp StateStack.cpp GameOverState.cpp GameOverState.hpp StateStack.hpp State.cpp State.hpp HomeState.hpp HomeState.cpp -lsfml-graphics -lsfml-window -lsfml-system -lpng -lsfml-audio	
+
+g++ -o states states.cpp StateStack.cpp GameOverState.cpp State.cpp HomeState.cpp StateId.hpp WinState.cpp -lsfml-graphics -lsfml-window -lsfml-system -lpng -lsfml-audio
+
+g++ -o states states.cpp StateStack.cpp GameOverState.cpp State.cpp HomeState.cpp StateId.hpp WinState.cpp GameState.cpp -lsfml-graphics Item.cpp Corn.cpp Apple.cpp OnyxApple.cpp Orange.cpp Candy.cpp Bread.cpp Turkey.cpp Random.cpp Game.cpp -lsfml-window -lsfml-system -lpng -lsfml-audio
+
+
+g++ Main.cpp -o CatchThem StateStack.cpp GameOverState.cpp State.cpp HomeState.cpp StateId.hpp WinState.cpp GameState.cpp -lsfml-graphics Item.cpp Corn.cpp Apple.cpp OnyxApple.cpp Orange.cpp Candy.cpp Bread.cpp Turkey.cpp Random.cpp Game.cpp -lsfml-window -lsfml-system -lpng -lsfml-audio
+
