@@ -3,6 +3,4 @@ To compile:
 run "make"
 
 
-[![Catch Them Game]          // Title
-(https://ibb.co/86ccrBg)] // Thumbnail
-(https://www.youtube.com/watch?v=W5oMZdtZWbo&ab_channel=nhivo "Now in Android: 55")    // Video Link
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
